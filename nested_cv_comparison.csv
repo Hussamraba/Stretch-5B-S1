@@ -1,0 +1,4 @@
+Metric,Random Forest,Decision Tree
+Inner best_score_ (mean across outer folds),0.30106085132207394,0.2739442671267568
+Outer nested CV score (mean across outer folds),0.26531449405822566,0.24510011401196827
+Gap (inner - outer),0.03574635726384828,0.028844153114788523
